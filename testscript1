@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "Hello guys , its my first job through CI"
+date
