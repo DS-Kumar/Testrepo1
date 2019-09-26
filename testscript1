@@ -3,4 +3,8 @@ echo "Hello guys , its my first job through CI"
 date
 hostname
 cal
-history
+whoami
+uptime
+cat /etc/passwd
+cat /etc/fstab
+
