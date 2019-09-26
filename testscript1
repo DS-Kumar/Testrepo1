@@ -7,4 +7,5 @@ whoami
 uptime
 cat /etc/passwd
 cat /etc/fstab
+cat /etc/group
 
