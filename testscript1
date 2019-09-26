@@ -1,11 +1,6 @@
 #!/bin/bash
 echo "Hello guys , its my first job through CI"
-date
-hostname
-cal
+date 
 whoami
+cal
 uptime
-cat /etc/passwd
-cat /etc/fstab
-cat /etc/group
-
